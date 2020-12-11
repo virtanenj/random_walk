@@ -1,2 +1,2 @@
-# random_walk
-Some simple instances of random walk for simulating Brownian motion
+# Random walk
+Some simple simulations of random walk for my essay about Brownian motion.
